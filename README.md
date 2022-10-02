@@ -1,4 +1,3 @@
-Hi, my name is Rodrigo 👋👾
 Olá, meu nome é Rodrigo 👋👾
 ==========================
 

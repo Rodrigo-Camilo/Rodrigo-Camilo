@@ -15,7 +15,7 @@ Faço curso técnico integrado com ensino médio - Ano 1/3
 * 🤝  Estou aberto para novas experiências e estou disposto a aprender coisas novas
 * 🎮  Adoro jogar nas minhas horas vagas
 
-<a href="https://www.github.com/peguimasid" target="_blank" rel="noreferrer"><img
+<a href="https://github.com/Rodrigo-Camilo" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/peguimasid?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>
 
 ### Skills

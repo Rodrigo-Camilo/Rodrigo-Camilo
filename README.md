@@ -1,19 +1,20 @@
-Hi 👋 My name is Guilhermo
+Hi, my name is Rodrigo 👋👾
+Olá, meu nome é Rodrigo 👋👾
 ==========================
 
-Full Stack Software Developer
+Estudante de desenvolvimento de sistemas
 -----------------------------
 
-I'm a 19 years old developer and hacking since I was 16. I love to code and figure it out how to solve deep problems using high-edge tech. My main focus are front and back-end development, making applications that impact the life of thousands of users.
+Tenho 16 anos, sempre gostei de computadores e sempre fui muito curioso com coisas que envolvem tecnologia
 
-I am also a student at [42 | Rio](https://42.rio/), a Software Engineering school that have [47 campus in 26 countries](https://www.42network.org/42-schools/).
+Faço curso técnico integrado com ensino médio - Ano 1/3
 
-* 🌍  I'm based in Rio de Janeiro, Brazil
-* ✉️  You can contact me at [guilhermomasid@gmail.com](mailto:guilhermomasid@gmail.com)
-* 🚀  I'm currently working on [Result Sistemas](http://resultsistemas.com)
-* 🧠  I'm learning Advanced Javascript, Rust and C programming language
-* 🤝  I'm open to collaborating on projects that have a high impact in peoples lives
-* ⚡  I love sports and my favorite is Crossfit
+* 🌍  Moro em São Paulo - SP
+* ✉️  Meu email para contato: rodrigocemailprofissional@gmail.com
+* 📚  Atualmente apenas estudando
+* 🧠  Estudando atualmente Python, HTML, CSS e JavaScript
+* 🤝  Estou aberto para novas experiências e estou disposto a aprender coisas novas
+* 🎮  Adoro jogar nas minhas horas vagas
 
 <a href="https://www.github.com/peguimasid" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/peguimasid?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>

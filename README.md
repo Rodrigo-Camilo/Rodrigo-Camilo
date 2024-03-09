@@ -4,16 +4,14 @@ Olá, meu nome é Rodrigo 👋👾
 Estudante de desenvolvimento de sistemas
 -----------------------------
 
-Tenho 16 anos, sempre gostei de computadores e sempre fui muito curioso com coisas que envolvem tecnologia
-
-Faço curso técnico integrado com ensino médio - Ano 1/3
+Tenho 17 anos, sempre gostei de computadores e sempre fui muito curioso com coisas que envolvem tecnologia
 
 * 🌍  Moro em São Paulo - SP
 * ✉️  Meu email para contato: rodrigocemailprofissional@gmail.com
-* 📚  Atualmente apenas estudando
-* 🧠  Estudando atualmente Python, HTML, CSS e JavaScript
+* 📚  Faço curso técnico integrado com ensino médio - Ano 3/3
+* 🧠  Estudante de programação
 * 🤝  Estou aberto para novas experiências e estou disposto a aprender coisas novas
-* 🎮  Adoro jogar nas minhas horas vagas
+* 🎮  Gosto de jogar nas horas vagas
 
 <a href="https://github.com/Rodrigo-Camilo" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Rodrigo-Camilo?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>

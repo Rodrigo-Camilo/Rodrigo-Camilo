@@ -4,8 +4,6 @@ Olá, meu nome é Rodrigo 👋👾
 Estudante de desenvolvimento de sistemas
 -----------------------------
 
-Tenho 17 anos, sempre gostei de computadores e sempre fui muito curioso com coisas que envolvem tecnologia
-
 * 🌍  Moro em São Paulo - SP
 * ✉️  Meu email para contato: rodrigocemailprofissional@gmail.com
 * 📚  Faço curso técnico integrado com ensino médio - Ano 3/3

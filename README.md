@@ -11,10 +11,9 @@ Estudante de desenvolvimento de sistemas
 * 🤝  Estou aberto para novas experiências e estou disposto a aprender coisas novas
 * 🎮  Gosto de jogar nas horas vagas
 
-<a href="https://github.com/Rodrigo-Camilo" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Rodrigo-Camilo?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>
+[![GitHub Seguidores](https://img.shields.io/github/followers/Rodrigo-Camilo?logo=github&style=for-the-badge&color=3382ed&labelColor=171717)](https://github.com/Rodrigo-Camilo)
 
-### Skills
+### Habilidades
 
 <p align="left">  
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/Python" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
@@ -23,13 +22,13 @@ src="https://img.shields.io/github/followers/Rodrigo-Camilo?logo=github&style=fo
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
   
-### Socials
+### Redes Sociais
 
 <p align="left"> <a href="https://discord.com/users/392077971864813569" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/Rodrigo-Camilo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/rodrigo-camilo-7b5565243/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-### Badges
+### Distintivos
 
-<b>My GitHub Stats</b>
+<b>Minhas Estatísticas no GitHub</b>
 
 <a href="http://www.github.com/Rodrigo-Camilo"><img src="https://github-readme-stats-peguimasid.vercel.app/api?username=Rodrigo-Camilo&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&show_icons=true" alt="peguimasid's GitHub stats" /></a>
 

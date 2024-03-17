@@ -30,8 +30,8 @@ Estudante de desenvolvimento de sistemas
 
 <div align="center">  
 <a href="http://www.github.com/Rodrigo-Camilo">
-  <img src="https://github-readme-stats-peguimasid.vercel.app/api?username=Rodrigo-Camilo&show_icons=true&hide=&count_private=true&title_color=white&text_color=c8c8c8&icon_color=3382ed&bg_color=171717&hide_border=false&show_icons=true" alt="peguimasid's GitHub stats" style="height: 150px"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Rodrigo-Camilo&show_icons=true&hide=&count_private=true&title_color=white&text_color=c8c8c8&icon_color=3382ed&bg_color=171717&hide_border=false&show_icons=true" alt="peguimasid's GitHub stats" style="height: 150px"/>
+  <img src="https://github-readme-stats-peguimasid.vercel.app/api?username=Rodrigo-Camilo&show_icons=true&hide=&count_private=true&title_color=white&text_color=c8c8c8&icon_color=3382ed&bg_color=171717&hide_border=false&show_icons=true" style="height: 150px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Rodrigo-Camilo&show_icons=true&hide=&count_private=true&title_color=white&text_color=c8c8c8&icon_color=3382ed&bg_color=171717&hide_border=false&show_icons=true"  style="height: 150px"/>
 </a>
 <a href="https://github.com/Rodrigo-Camilo">
   <img src="https://github-readme-stats-peguimasid.vercel.app/api/top-langs/?username=Rodrigo-Camilo&layout=compact&title_color=white&text_color=c8c8c8&icon_color=3382ed&bg_color=171717&hide_border=false&locale=en&custom_title=Top%20%Languages" style="height: 150px"/>

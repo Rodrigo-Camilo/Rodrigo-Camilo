@@ -26,18 +26,20 @@ Estudante de desenvolvimento de sistemas
 
 <p align="left"> <a href="https://discord.com/users/392077971864813569" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/Rodrigo-Camilo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/rodrigo-camilo-7b5565243/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-### Distintivos
+### My GitHub Stats
+<div align="center">  
+<a href="http://www.github.com/JoaoSchwabe">
+  <img src="https://github-readme-stats-peguimasid.vercel.app/api?username=JoaoSchwabe&show_icons=true&hide=&count_private=true&title_color=white&text_color=c8c8c8&icon_color=3382ed&bg_color=171717&hide_border=false&show_icons=true" alt="peguimasid's GitHub stats" style="height: 150px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=JoaoSchwabe&show_icons=true&hide=&count_private=true&title_color=white&text_color=c8c8c8&icon_color=3382ed&bg_color=171717&hide_border=false&show_icons=true" alt="peguimasid's GitHub stats" style="height: 150px"/>
+</a>
+<a href="https://github.com/JoaoSchwabe">
+  <img src="https://github-readme-stats-peguimasid.vercel.app/api/top-langs/?username=JoaoSchwabe&layout=compact&title_color=white&text_color=c8c8c8&icon_color=3382ed&bg_color=171717&hide_border=false&locale=en&custom_title=Top%20%Languages" alt="Top Languages" style="height: 150px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoSchwabe&layout=compact&title_color=white&text_color=c8c8c8&icon_color=3382ed&bg_color=171717&hide_border=false&locale=en&custom_title=Top%20%Languages" alt="Top Languages" style="height: 150px"/>
+</a>
 
-<b>Minhas Estatísticas no GitHub</b>
-
-<a href="http://www.github.com/Rodrigo-Camilo"><img src="https://github-readme-stats-peguimasid.vercel.app/api?username=Rodrigo-Camilo&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&show_icons=true" alt="peguimasid's GitHub stats" /></a>
-
-<a href="http://www.github.com/Rodrigo-Camilo"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Rodrigo-Camilo&stroke=ffffff&background=171717&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/Rodrigo-Camilo"><img src="https://activity-graph.herokuapp.com/graph?username=Rodrigo-Camilo&bg_color=171717&color=ffffff&line=3382ed&point=ffffff&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/Rodrigo-Camilo" align="left"><img src="https://github-readme-stats-Rodrigo-Camilo.vercel.app/api/top-langs/?username=Rodrigo-Camilo&layout=compact&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20Languages&hide=,v%20impressao%20e%20vazia" alt="Top Languages" /></a>
 
 ### Doação
 
 <a href="https://www.buymeacoffee.com/rodrigocamilo"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" /></a>
+
+

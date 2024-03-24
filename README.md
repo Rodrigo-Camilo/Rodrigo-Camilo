@@ -5,7 +5,7 @@ Estudante de desenvolvimento de sistemas
 -----------------------------
 
 * 🌍  Moro em São Paulo - SP
-* ✉️  Meu email para contato: rodrigocemailprofissional@gmail.com
+* ✉️  Meu email para contato: rodrigocamilo2006@gmail.com
 * 📚  Faço curso técnico integrado com ensino médio - Ano 3/3
 * 🧠  Estudante de programação
 * 🤝  Estou aberto para novas experiências e estou disposto a aprender coisas novas

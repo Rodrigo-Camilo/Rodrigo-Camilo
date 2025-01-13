@@ -6,9 +6,8 @@ Estudante de desenvolvimento de sistemas
 
 * 🌍  Moro em São Paulo - SP
 * ✉️  Meu email para contato: rodrigocamilo2006@gmail.com
-* 📚  Faço curso técnico integrado com ensino médio - Ano 3/3
+* 📚  Recentemente finalizei o ensino médio integrado com ensino técnico em desenvolvimento de sistemas
 * 🧠  Estudante de programação
-* 🤝  Estou aberto para novas experiências e estou disposto a aprender coisas novas
 * 🎮  Gosto de jogar nas horas vagas
 
 [![GitHub Seguidores](https://img.shields.io/github/followers/Rodrigo-Camilo?logo=github&style=for-the-badge&color=3382ed&labelColor=171717)](https://github.com/Rodrigo-Camilo)

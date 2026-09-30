@@ -33,15 +33,6 @@ Desenvolvedor Full Stack e estudante de Sistemas de Informação, apaixonado por
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,tailwind,firebase,git,github,vercel,vscode&theme=dark)](https://skillicons.dev)
 
 <br/>
-
-<a href="https://reactnative.dev/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original.svg" width="48" height="48" alt="React Native" />
-</a>
-&nbsp;
-<a href="https://expo.dev/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/expo/expo-original.svg" width="48" height="48" alt="Expo" />
-</a>
-
 </div>
 
 ### Front-end
